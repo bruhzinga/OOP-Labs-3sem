@@ -1,0 +1,7 @@
+E:\source\bruhzinga\OOP\LABA3\LABA3\obj\Debug\LABA3.csproj.AssemblyReference.cache
+E:\source\bruhzinga\OOP\LABA3\LABA3\obj\Debug\LABA3.csproj.CoreCompileInputs.cache
+E:\source\bruhzinga\OOP\LABA3\LABA3\bin\Debug\LABA3.exe.config
+E:\source\bruhzinga\OOP\LABA3\LABA3\bin\Debug\LABA3.exe
+E:\source\bruhzinga\OOP\LABA3\LABA3\bin\Debug\LABA3.pdb
+E:\source\bruhzinga\OOP\LABA3\LABA3\obj\Debug\LABA3.exe
+E:\source\bruhzinga\OOP\LABA3\LABA3\obj\Debug\LABA3.pdb
