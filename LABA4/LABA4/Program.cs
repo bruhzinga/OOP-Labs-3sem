@@ -10,10 +10,10 @@ namespace LABA4
     {
         private static void Main(string[] args)
         {
-            var chars = new myArray_char('h', 'e', 'l');
-            Console.WriteLine(chars[0]);
-            var ints = new myArray_int(10, 12, 13);
-            Console.WriteLine(ints[0]);
+            /* var chars = new myArray_char('h', 'e', 'l');
+             Console.WriteLine(chars[0]);
+             var ints = new myArray_int(10, 12, 13);
+             Console.WriteLine(ints[0]);*/
         }
     }
 }
