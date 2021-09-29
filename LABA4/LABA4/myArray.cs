@@ -53,6 +53,4 @@ namespace LABA4
             }
         }
     }
-
-    //test
 }
