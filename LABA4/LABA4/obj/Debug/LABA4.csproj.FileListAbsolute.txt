@@ -1,0 +1,7 @@
+E:\source\bruhzinga\OOP\LABA4\LABA4\obj\Debug\LABA4.csproj.AssemblyReference.cache
+E:\source\bruhzinga\OOP\LABA4\LABA4\obj\Debug\LABA4.csproj.CoreCompileInputs.cache
+E:\source\bruhzinga\OOP\LABA4\LABA4\bin\Debug\LABA4.exe.config
+E:\source\bruhzinga\OOP\LABA4\LABA4\bin\Debug\LABA4.exe
+E:\source\bruhzinga\OOP\LABA4\LABA4\bin\Debug\LABA4.pdb
+E:\source\bruhzinga\OOP\LABA4\LABA4\obj\Debug\LABA4.exe
+E:\source\bruhzinga\OOP\LABA4\LABA4\obj\Debug\LABA4.pdb

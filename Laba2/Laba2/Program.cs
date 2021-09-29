@@ -10,14 +10,14 @@ namespace Laba2
         private static void Main()
         {
             //Types();
-            // Strings();
+            //Strings();
             //Arrays();
             //Tuples();
             int[] arrVar = new int[] { 5, 3, 12, 42, -23 };
             string strVar = "ABCD";
-            /*Console.WriteLine(LocalFunction(arrVar, strVar));*/
-            FunctionWithChecked();
-            /*FunctionWithUnchecked();*/
+            // Console.WriteLine(LocalFunction(arrVar, strVar));
+            // FunctionWithChecked();
+            FunctionWithUnchecked();
             Console.ReadKey();
         }
 

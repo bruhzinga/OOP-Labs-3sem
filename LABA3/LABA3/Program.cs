@@ -10,6 +10,7 @@ namespace LABA3
     {
         private static void Main(string[] args)
         {
+            Console.ForegroundColor = ConsoleColor.Red;
             Airline[] airs = new Airline[5];
             airs[0] = new Airline("MOSCOW", 12, "HEAVY", 10, "wednesday");
             airs[1] = new Airline("MOSCOW", 25, "HEAVY", 10, "saturday");
