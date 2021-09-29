@@ -6,51 +6,10 @@ using System.Threading.Tasks;
 
 namespace LABA4
 {
-    internal class myArray_int
+    internal class MyArray
     {
-        private List<int> array;
+        private int[] Myarray_i { get; set; };
 
-        public myArray_int(params int[] arrayValue) //значения для инициализации массива
-        {
-            array = new List<int>();
-            array.AddRange(arrayValue);
-        }
-
-        public int this[int index]  //индексатор
-        {
-            get
-            {
-                return array[index];
-            }
-
-            set
-            {
-                array[index] = value;
-            }
-        }
-    }
-
-    internal class myArray_char
-    {
-        private List<char> array;
-
-        public myArray_char(params char[] arrayValue) //значения для инициализации массива
-        {
-            array = new List<char>();
-            array.AddRange(arrayValue);
-        }
-
-        public char this[int index]  //индексатор
-        {
-            get
-            {
-                return array[index];
-            }
-
-            set
-            {
-                array[index] = value;
-            }
-        }
+        private char[] Myarray_c { get; set; };
     }
 }
