@@ -46,7 +46,19 @@ namespace LABA4
 
         public Owner _Owner = new Owner("DIMA", "BSTU");
         public Date _Date = new Date();
-        public int[] myarray_i;
+        private int[] myarray_i;
+
+        public int[] Myarray_i
+        {
+            get
+            {
+                return myarray_i;
+            }
+            set
+            {
+                myarray_i = value;
+            }
+        }
 
         public char[] myarray_c;
 
@@ -166,17 +178,17 @@ namespace LABA4
     {
         public static int sum(MyArray inc)
         {
-            return inc.myarray_i.Sum();
+            return inc.Myarray_i.Sum();
         }
 
         public static int diff(MyArray inc)
         {
-            return (inc.myarray_i.Max() - inc.myarray_i.Min());
+            return (inc.Myarray_i.Max() - inc.Myarray_i.Min());
         }
 
         public static int count(MyArray inc)
         {
-            return inc.myarray_i.Length;
+            return inc.Myarray_i.Length;
         }
 
         public static void delGlas(this MyArray inc)
@@ -196,13 +208,13 @@ namespace LABA4
             int[] first = new int[6];
             for (int i = 0; i < 5; i++)
             {
-                first[i] = inc.myarray_i[i];
+                first[i] = inc.Myarray_i[i];
             }
-            foreach (int ind in inc.myarray_i)
+            foreach (int ind in inc.Myarray_i)
             {
                 if (first.Contains(ind))
                 {
-                    inc.myarray_i = inc.myarray_i.Where(val => val != ind).ToArray();
+                    inc.Myarray_i = inc.Myarray_i.Where(val => val != ind).ToArray();
                 }
             }
         }
