@@ -10,6 +10,10 @@ namespace LABA5
     {
         private static void Main(string[] args)
         {
+            var sqr = new Square("Yellow", 12);
+            Console.WriteLine(sqr);
+            var print = new Printer();
+            print.IAmPrinting(sqr);
         }
     }
 }
