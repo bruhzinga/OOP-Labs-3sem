@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LABA5
+namespace LABA6
 {
     internal abstract class ControlElement : IControl
     {

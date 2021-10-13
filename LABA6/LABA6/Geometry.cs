@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LABA5
+namespace LABA6
 {
     internal class Printer
     {
@@ -16,9 +16,18 @@ namespace LABA5
 
     internal abstract class GeometricFigure
     {
-        protected string Color { get; set; }
+        protected enum Colors : int
+
+        {
+            Red,
+            Green,
+            Blue
+        }
+
+        protected Colors Color;
+
         protected static int count = 0;
-        protected double Area { get; set; }
+        public double Area { get; set; }
 
         public GeometricFigure()
         {
@@ -30,7 +39,7 @@ namespace LABA5
             Console.WriteLine($"{count}");
         }
 
-        public override string ToString() => $"{Color} {count} {Area} ";
+        public override string ToString() => $"Цвет: {Color} Количество обьектов: {count} Площадь: {Area} ";
 
         public override int GetHashCode() => count;
 
@@ -41,29 +50,37 @@ namespace LABA5
     {
         private int Radius { get; set; }
 
-        public Circle(int rad, string color = "N/S")
+        private struct very_important
+        {
+            public void SaySomethingImportant()
+            {
+                Console.WriteLine("Bruh");
+            }
+        }
+
+        public Circle(int rad, int color)
             : base()
         {
             Radius = rad;
-            Color = color;
+            Color = (Colors)color;
             Area = (Math.PI) * Radius * Radius;
         }
 
-        public override string ToString() => $" {Radius} {Color} {count} {Area}";
+        public override string ToString() => $"Радиус : {Radius} " + base.ToString();
     }
 
     sealed internal class Square : GeometricFigure
     {
         private int Side { get; set; }
 
-        public Square(int side, string color = "N/S")
+        public Square(int side, int color)
     : base()
         {
             Side = side;
-            Color = color;
+            Color = (Colors)color;
             Area = Side * Side;
         }
 
-        public override string ToString() => $" {Side} {Color} {count} {Area}";
+        public override string ToString() => $"Сторона: {Side} " + base.ToString();
     }
 }
