@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LABA6
+namespace LABA7
 {
     internal static class Controller
     {
@@ -22,8 +22,6 @@ namespace LABA6
             }
             return sum;
         }
-
-        
 
         public static void CreateFromTextFile(UI UI)
         {

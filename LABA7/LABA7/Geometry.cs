@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LABA6
+namespace LABA7
 {
     internal class Printer
     {
@@ -63,9 +63,18 @@ namespace LABA6
         public Circle(int rad, int color)
             : base()
         {
-            Radius = rad;
+            if (rad > 666)
+                throw new CircleException("Radius cant be more than 666", "Circle", rad);
+            else
+            { Radius = rad; }
+
             Color = (Colors)color;
             Area = (Math.PI) * Radius * Radius;
+        }
+
+        public void ExeptionThrower()
+        {
+            throw new InvalidOperationException();
         }
 
         public override string ToString() => $"Радиус : {Radius} " + base.ToString();
@@ -78,6 +87,8 @@ namespace LABA6
         public Square(int side, int color)
     : base()
         {
+            if (color > 5)
+                throw new ArgumentOutOfRangeException();
             Side = side;
             Color = (Colors)color;
             Area = Side * Side;

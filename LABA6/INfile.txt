@@ -1,4 +1,4 @@
 Circle  
-Radius: 1 Color: 2
+Radius: 1 Color: 3
 Square 
-Side: 2 Color: 1
+Side: 2 Color: 2
