@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace LABA8
 {
+    [Serializable]
     internal abstract class GeometricFigure
     {
         protected string Color { get; set; }
@@ -29,6 +30,7 @@ namespace LABA8
         public override bool Equals(object obj) => GetType().Name == obj.ToString();
     }
 
+    [Serializable]
     internal class Circle : GeometricFigure
     {
         private int Radius { get; set; }
@@ -44,6 +46,7 @@ namespace LABA8
         public override string ToString() => $" {Radius} {Color} {count} {Area}";
     }
 
+    [Serializable]
     sealed internal class Square : GeometricFigure
     {
         private int Side { get; set; }

@@ -3,18 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.Json;
+using System.Text.Json.Serialization;
+using System.Web.Script.Serialization;
+using System.Runtime.Serialization;
+using System.Runtime.Serialization.Formatters.Binary;
+using System.IO;
 
 namespace LABA8
 {
-    using System;
-    using System.Collections.Generic;
-    using System.IO;
-    using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
-
+    [Serializable]
     internal class MyArray<T> : IGeneric<T>
     {
+        [Serializable]
         public class Owner
         {
             private string name;
@@ -36,6 +37,7 @@ namespace LABA8
             }
         }
 
+        [Serializable]
         public class Date
         {
             private DateTime time;
@@ -119,24 +121,20 @@ namespace LABA8
 
         public void Save()
         {
-            using (StreamWriter sw = new StreamWriter(@"E:\source\bruhzinga\OOP\LABA8\LABA8/text.txt"))
-            {
-                foreach (var item in Myarray)
-                {
-                    sw.Write(item + "--> ");
-                }
-            }
+            IFormatter formatter = new BinaryFormatter();
+            Stream stream = new FileStream(@"E:\ExampleNew.txt", FileMode.Create, FileAccess.Write);
+
+            formatter.Serialize(stream, this);
+            stream.Close();
         }
 
-        public void Load()
+        public static MyArray<T> Load()
         {
-            using (StreamReader sw = new StreamReader(@"E:\source\bruhzinga\OOP\LABA8\LABA8/text.txt"))
-            {
-                string[] items = sw.ReadToEnd().Split(' ');
-                foreach (string item in items)
-                {
-                }
-            }
+            IFormatter formatter = new BinaryFormatter();
+            var stream = new FileStream(@"E:\ExampleNew.txt", FileMode.Open, FileAccess.Read);
+            MyArray<T> objnew = (MyArray<T>)formatter.Deserialize(stream);
+            stream.Close();
+            return objnew;
         }
     }
 }
