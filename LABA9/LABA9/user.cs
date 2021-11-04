@@ -18,12 +18,12 @@ namespace LABA9
 
         public void DoSqueeze(float factor)
         {
-            squeeze(factor);
+            squeeze?.Invoke(factor);
         }
 
         public void DoMove(string coords)
         {
-            move(coords);
+            move?.Invoke(coords);
         }
     }
 }
