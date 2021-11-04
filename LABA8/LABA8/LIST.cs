@@ -122,7 +122,7 @@ namespace LABA8
         public void Save()
         {
             IFormatter formatter = new BinaryFormatter();
-            Stream stream = new FileStream(@"E:\ExampleNew.txt", FileMode.Create, FileAccess.Write);
+            Stream stream = new FileStream(@"E:\source\bruhzinga\OOP\LABA8\LABA8\text.json", FileMode.Create, FileAccess.Write);
 
             formatter.Serialize(stream, this);
             stream.Close();
@@ -131,7 +131,7 @@ namespace LABA8
         public static MyArray<T> Load()
         {
             IFormatter formatter = new BinaryFormatter();
-            var stream = new FileStream(@"E:\ExampleNew.txt", FileMode.Open, FileAccess.Read);
+            var stream = new FileStream(@"E:\source\bruhzinga\OOP\LABA8\LABA8\text.json", FileMode.Open, FileAccess.Read);
             MyArray<T> objnew = (MyArray<T>)formatter.Deserialize(stream);
             stream.Close();
             return objnew;

@@ -37,34 +37,3 @@ namespace LABA8
     }
 }
 
-/* namespace DemoApplication
- {
-     internal class Tutorial
-     {
-         public int ID;
-         public String Name;
-
-         private static void Main(string[] args)
-         {
-             Tutorial obj = new Tutorial();
-             obj.ID = 1;
-             obj.Name = ".Net";
-
-             stream = new FileStream(@"E:\ExampleNew.txt", FileMode.Open, FileAccess.Read);
-             Tutorial objnew = (Tutorial)formatter.Deserialize(stream);
-
-             Console.WriteLine(objnew.ID);
-             Console.WriteLine(objnew.Name);
-
-             Console.ReadKey();
-         }
-     }
- }
-}
-         catch (Exception e)
-{
- Console.WriteLine(e.Message);
-}
-     }
- }
-}*/
