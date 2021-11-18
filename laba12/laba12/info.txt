@@ -1,0 +1,20 @@
+laba12, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+Does not have public constructors
+/////////////////ALl Public Methods
+Void GetAssemeblyName(System.Type)
+Void HasPublicConstr(System.Type)
+Void GetAllPublicMethods(System.Type)
+Void GetPropertiesAndFileds(System.Type)
+Void GetInterfaces(System.Type)
+Void GetSpecifiedParametrType(System.Type, System.String)
+Void Invoke(System.String, System.String)
+System.Object Create(System.Type)
+Void ClearFile()
+System.Type GetType()
+System.String ToString()
+Boolean Equals(System.Object)
+Int32 GetHashCode()
+/////////////////All Properties and Fields
+///////////////////Realized Interfaces
+No interfaces
+///////////////////Methods with specifed parametrs
