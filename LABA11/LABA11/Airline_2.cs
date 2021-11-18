@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace LABA3
+﻿namespace LABA3
 {
     public partial class Airline
     {

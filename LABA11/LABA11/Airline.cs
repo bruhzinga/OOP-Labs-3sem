@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-//Пункт назначения,
+﻿//Пункт назначения,
 //Номер рейса, Тип самолета, Время вылета, Дни недели.
 namespace LABA3
 {
@@ -25,7 +19,8 @@ namespace LABA3
         private int time;
         private string weekdays;
 
-        public string Destination { get => destination; set { destination = value; } }
+        public string Destination
+        { get => destination; set { destination = value; } }
 
         public int Num
         {

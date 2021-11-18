@@ -7,13 +7,13 @@ Second();
 static void First()
 {
     Action<IEnumerable<string>> Show = (n) =>
+{
+    foreach (var i in n)
     {
-        foreach (var i in n)
-        {
-            Console.WriteLine(i);
-        }
-        Console.WriteLine();
-    };
+        Console.WriteLine(i);
+    }
+    Console.WriteLine();
+};
     string[] months =
                     {
     "January", "February", "March", "April", "May", "June",
@@ -65,19 +65,23 @@ static void Second()
     exerise = airs
         .Where(air => air.Weekdays == "wednesday");
     Show(exerise);
+
     exerise = airs
         .Where(air => air.Weekdays == "saturday")
         .OrderBy(airs => airs.Time)
         .Take(1);
     Show(exerise);
+
     exerise = airs
         .Where(air => air.Weekdays == "wednesday" || air.Weekdays == "saturday")
         .OrderBy(airs => airs.Time)
-        .TakeLast<Airline>(1);
+        .TakeLast(1);
     Show(exerise);
+
     exerise = airs
         .OrderBy(airs => airs.Time);
     Show(exerise);
+
     var exersise2 = airs
         .Where(air => air.Destination == "MOSCOW")
         .OrderByDescending(airs => airs.Time)
