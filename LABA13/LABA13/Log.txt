@@ -1,0 +1,16 @@
+On 13:53 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 13:53 user triggered ShowFileSystemnfo with parametrs 
+On 13:53 user triggered ShowInfoForAll with parametrs 
+On 13:53 user triggered ShowFullPath with parametrs 
+On 13:53 user triggered ShowSizeNameExtension with parametrs 
+On 13:53 user triggered ShowDates with parametrs 
+On 13:53 user triggered CountFiles with parametrs 
+On 13:53 user triggered CreationDate with parametrs 
+On 13:58 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 13:58 user triggered ShowFileSystemnfo with parametrs 
+On 13:58 user triggered ShowInfoForAll with parametrs 
+On 13:58 user triggered ShowFullPath with parametrs 
+On 13:58 user triggered ShowSizeNameExtension with parametrs 
+On 13:58 user triggered ShowDates with parametrs 
+On 13:58 user triggered CountFiles with parametrs 
+On 13:58 user triggered CreationDate with parametrs 
