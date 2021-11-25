@@ -14,3 +14,512 @@ On 13:58 user triggered ShowSizeNameExtension with parametrs
 On 13:58 user triggered ShowDates with parametrs 
 On 13:58 user triggered CountFiles with parametrs 
 On 13:58 user triggered CreationDate with parametrs 
+On 17:27 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 17:27 user triggered ShowFileSystemnfo with parametrs 
+On 17:27 user triggered ShowInfoForAll with parametrs 
+On 17:27 user triggered ShowFullPath with parametrs 
+On 17:27 user triggered ShowSizeNameExtension with parametrs 
+On 17:27 user triggered ShowDates with parametrs 
+On 17:27 user triggered CountFiles with parametrs 
+On 17:27 user triggered CreationDate with parametrs 
+On 17:28 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 17:28 user triggered ShowFileSystemnfo with parametrs 
+On 17:28 user triggered ShowInfoForAll with parametrs 
+On 17:28 user triggered ShowFullPath with parametrs 
+On 17:28 user triggered ShowSizeNameExtension with parametrs 
+On 17:28 user triggered ShowDates with parametrs 
+On 17:28 user triggered CountFiles with parametrs 
+On 17:28 user triggered CreationDate with parametrs 
+On 17:29 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 17:29 user triggered ShowFileSystemnfo with parametrs 
+On 17:29 user triggered ShowInfoForAll with parametrs 
+On 17:29 user triggered ShowFullPath with parametrs 
+On 17:29 user triggered ShowSizeNameExtension with parametrs 
+On 17:29 user triggered ShowDates with parametrs 
+On 17:29 user triggered CountFiles with parametrs 
+On 17:29 user triggered CreationDate with parametrs 
+On 17:30 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 17:30 user triggered ShowFileSystemnfo with parametrs 
+On 17:30 user triggered ShowInfoForAll with parametrs 
+On 17:30 user triggered ShowFullPath with parametrs 
+On 17:30 user triggered ShowSizeNameExtension with parametrs 
+On 17:30 user triggered ShowDates with parametrs 
+On 17:30 user triggered CountFiles with parametrs 
+On 17:30 user triggered CreationDate with parametrs 
+On 17:34 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 17:34 user triggered ShowFileSystemnfo with parametrs 
+On 17:34 user triggered ShowInfoForAll with parametrs 
+On 17:34 user triggered ShowFullPath with parametrs 
+On 17:34 user triggered ShowSizeNameExtension with parametrs 
+On 17:34 user triggered ShowDates with parametrs 
+On 17:34 user triggered CountFiles with parametrs 
+On 17:34 user triggered CreationDate with parametrs 
+On 17:36 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 17:36 user triggered ShowFileSystemnfo with parametrs 
+On 17:36 user triggered ShowInfoForAll with parametrs 
+On 17:36 user triggered ShowFullPath with parametrs 
+On 17:36 user triggered ShowSizeNameExtension with parametrs 
+On 17:36 user triggered ShowDates with parametrs 
+On 17:36 user triggered CountFiles with parametrs 
+On 17:36 user triggered CreationDate with parametrs 
+On 17:42 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 17:42 user triggered ShowFileSystemnfo with parametrs 
+On 17:42 user triggered ShowInfoForAll with parametrs 
+On 17:42 user triggered ShowFullPath with parametrs 
+On 17:42 user triggered ShowSizeNameExtension with parametrs 
+On 17:42 user triggered ShowDates with parametrs 
+On 17:42 user triggered CountFiles with parametrs 
+On 17:42 user triggered CreationDate with parametrs 
+On 17:44 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 17:44 user triggered ShowFileSystemnfo with parametrs 
+On 17:44 user triggered ShowInfoForAll with parametrs 
+On 17:44 user triggered ShowFullPath with parametrs 
+On 17:44 user triggered ShowSizeNameExtension with parametrs 
+On 17:44 user triggered ShowDates with parametrs 
+On 17:44 user triggered CountFiles with parametrs 
+On 17:44 user triggered CreationDate with parametrs 
+On 17:47 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 17:47 user triggered ShowFileSystemnfo with parametrs 
+On 17:47 user triggered ShowInfoForAll with parametrs 
+On 17:47 user triggered ShowFullPath with parametrs 
+On 17:47 user triggered ShowSizeNameExtension with parametrs 
+On 17:47 user triggered ShowDates with parametrs 
+On 17:47 user triggered CountFiles with parametrs 
+On 17:47 user triggered CreationDate with parametrs 
+On 17:48 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 17:48 user triggered ShowFileSystemnfo with parametrs 
+On 17:48 user triggered ShowInfoForAll with parametrs 
+On 17:48 user triggered ShowFullPath with parametrs 
+On 17:48 user triggered ShowSizeNameExtension with parametrs 
+On 17:48 user triggered ShowDates with parametrs 
+On 17:48 user triggered CountFiles with parametrs 
+On 17:48 user triggered CreationDate with parametrs 
+On 17:55 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 17:55 user triggered ShowFileSystemnfo with parametrs 
+On 17:55 user triggered ShowInfoForAll with parametrs 
+On 17:55 user triggered ShowFullPath with parametrs 
+On 17:55 user triggered ShowSizeNameExtension with parametrs 
+On 17:55 user triggered ShowDates with parametrs 
+On 17:55 user triggered CountFiles with parametrs 
+On 17:55 user triggered CreationDate with parametrs 
+On 17:57 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 17:57 user triggered ShowFileSystemnfo with parametrs 
+On 17:57 user triggered ShowInfoForAll with parametrs 
+On 17:57 user triggered ShowFullPath with parametrs 
+On 17:57 user triggered ShowSizeNameExtension with parametrs 
+On 17:57 user triggered ShowDates with parametrs 
+On 17:57 user triggered CountFiles with parametrs 
+On 17:57 user triggered CreationDate with parametrs 
+On 17:57 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 17:57 user triggered ShowFileSystemnfo with parametrs 
+On 17:57 user triggered ShowInfoForAll with parametrs 
+On 17:57 user triggered ShowFullPath with parametrs 
+On 17:57 user triggered ShowSizeNameExtension with parametrs 
+On 17:57 user triggered ShowDates with parametrs 
+On 17:57 user triggered CountFiles with parametrs 
+On 17:57 user triggered CreationDate with parametrs 
+On 17:59 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 17:59 user triggered ShowFileSystemnfo with parametrs 
+On 17:59 user triggered ShowInfoForAll with parametrs 
+On 17:59 user triggered ShowFullPath with parametrs 
+On 17:59 user triggered ShowSizeNameExtension with parametrs 
+On 17:59 user triggered ShowDates with parametrs 
+On 17:59 user triggered CountFiles with parametrs 
+On 17:59 user triggered CreationDate with parametrs 
+On 18:09 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 18:09 user triggered ShowFileSystemnfo with parametrs 
+On 18:09 user triggered ShowInfoForAll with parametrs 
+On 18:09 user triggered ShowFullPath with parametrs 
+On 18:09 user triggered ShowSizeNameExtension with parametrs 
+On 18:09 user triggered ShowDates with parametrs 
+On 18:09 user triggered CountFiles with parametrs 
+On 18:09 user triggered CreationDate with parametrs 
+On 18:12 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 18:12 user triggered ShowFileSystemnfo with parametrs 
+On 18:12 user triggered ShowInfoForAll with parametrs 
+On 18:12 user triggered ShowFullPath with parametrs 
+On 18:12 user triggered ShowSizeNameExtension with parametrs 
+On 18:12 user triggered ShowDates with parametrs 
+On 18:12 user triggered CountFiles with parametrs 
+On 18:12 user triggered CreationDate with parametrs 
+On 18:13 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 18:13 user triggered ShowFileSystemnfo with parametrs 
+On 18:13 user triggered ShowInfoForAll with parametrs 
+On 18:13 user triggered ShowFullPath with parametrs 
+On 18:13 user triggered ShowSizeNameExtension with parametrs 
+On 18:13 user triggered ShowDates with parametrs 
+On 18:13 user triggered CountFiles with parametrs 
+On 18:13 user triggered CreationDate with parametrs 
+On 18:14 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 18:14 user triggered ShowFileSystemnfo with parametrs 
+On 18:14 user triggered ShowInfoForAll with parametrs 
+On 18:14 user triggered ShowFullPath with parametrs 
+On 18:14 user triggered ShowSizeNameExtension with parametrs 
+On 18:14 user triggered ShowDates with parametrs 
+On 18:14 user triggered CountFiles with parametrs 
+On 18:14 user triggered CreationDate with parametrs 
+On 18:14 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 18:14 user triggered ShowFileSystemnfo with parametrs 
+On 18:14 user triggered ShowInfoForAll with parametrs 
+On 18:14 user triggered ShowFullPath with parametrs 
+On 18:14 user triggered ShowSizeNameExtension with parametrs 
+On 18:14 user triggered ShowDates with parametrs 
+On 18:14 user triggered CountFiles with parametrs 
+On 18:14 user triggered CreationDate with parametrs 
+On 18:20 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 18:20 user triggered ShowFileSystemnfo with parametrs 
+On 18:20 user triggered ShowInfoForAll with parametrs 
+On 18:20 user triggered ShowFullPath with parametrs 
+On 18:20 user triggered ShowSizeNameExtension with parametrs 
+On 18:20 user triggered ShowDates with parametrs 
+On 18:20 user triggered CountFiles with parametrs 
+On 18:20 user triggered CreationDate with parametrs 
+On 18:24 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 18:24 user triggered ShowFileSystemnfo with parametrs 
+On 18:24 user triggered ShowInfoForAll with parametrs 
+On 18:24 user triggered ShowFullPath with parametrs 
+On 18:24 user triggered ShowSizeNameExtension with parametrs 
+On 18:24 user triggered ShowDates with parametrs 
+On 18:24 user triggered CountFiles with parametrs 
+On 18:24 user triggered CreationDate with parametrs 
+On 18:24 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 18:24 user triggered ShowFileSystemnfo with parametrs 
+On 18:24 user triggered ShowInfoForAll with parametrs 
+On 18:24 user triggered ShowFullPath with parametrs 
+On 18:24 user triggered ShowSizeNameExtension with parametrs 
+On 18:24 user triggered ShowDates with parametrs 
+On 18:24 user triggered CountFiles with parametrs 
+On 18:24 user triggered CreationDate with parametrs 
+On 18:25 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 18:25 user triggered ShowFileSystemnfo with parametrs 
+On 18:25 user triggered ShowInfoForAll with parametrs 
+On 18:25 user triggered ShowFullPath with parametrs 
+On 18:25 user triggered ShowSizeNameExtension with parametrs 
+On 18:25 user triggered ShowDates with parametrs 
+On 18:25 user triggered CountFiles with parametrs 
+On 18:25 user triggered CreationDate with parametrs 
+On 18:29 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 18:29 user triggered ShowFileSystemnfo with parametrs 
+On 18:29 user triggered ShowInfoForAll with parametrs 
+On 18:29 user triggered ShowFullPath with parametrs 
+On 18:29 user triggered ShowSizeNameExtension with parametrs 
+On 18:29 user triggered ShowDates with parametrs 
+On 18:29 user triggered CountFiles with parametrs 
+On 18:29 user triggered CreationDate with parametrs 
+On 18:33 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 18:33 user triggered ShowFileSystemnfo with parametrs 
+On 18:33 user triggered ShowInfoForAll with parametrs 
+On 18:33 user triggered ShowFullPath with parametrs 
+On 18:33 user triggered ShowSizeNameExtension with parametrs 
+On 18:33 user triggered ShowDates with parametrs 
+On 18:33 user triggered CountFiles with parametrs 
+On 18:33 user triggered CreationDate with parametrs 
+On 18:36 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 18:36 user triggered ShowFileSystemnfo with parametrs 
+On 18:36 user triggered ShowInfoForAll with parametrs 
+On 18:36 user triggered ShowFullPath with parametrs 
+On 18:36 user triggered ShowSizeNameExtension with parametrs 
+On 18:36 user triggered ShowDates with parametrs 
+On 18:36 user triggered CountFiles with parametrs 
+On 18:36 user triggered CreationDate with parametrs 
+On 18:38 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 18:38 user triggered ShowFileSystemnfo with parametrs 
+On 18:38 user triggered ShowInfoForAll with parametrs 
+On 18:38 user triggered ShowFullPath with parametrs 
+On 18:38 user triggered ShowSizeNameExtension with parametrs 
+On 18:38 user triggered ShowDates with parametrs 
+On 18:38 user triggered CountFiles with parametrs 
+On 18:38 user triggered CreationDate with parametrs 
+On 18:39 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 18:39 user triggered ShowFileSystemnfo with parametrs 
+On 18:39 user triggered ShowInfoForAll with parametrs 
+On 18:39 user triggered ShowFullPath with parametrs 
+On 18:39 user triggered ShowSizeNameExtension with parametrs 
+On 18:39 user triggered ShowDates with parametrs 
+On 18:39 user triggered CountFiles with parametrs 
+On 18:39 user triggered CreationDate with parametrs 
+On 18:40 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 18:40 user triggered ShowFileSystemnfo with parametrs 
+On 18:40 user triggered ShowInfoForAll with parametrs 
+On 18:40 user triggered ShowFullPath with parametrs 
+On 18:40 user triggered ShowSizeNameExtension with parametrs 
+On 18:40 user triggered ShowDates with parametrs 
+On 18:40 user triggered CountFiles with parametrs 
+On 18:40 user triggered CreationDate with parametrs 
+On 18:41 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 18:41 user triggered ShowFileSystemnfo with parametrs 
+On 18:41 user triggered ShowInfoForAll with parametrs 
+On 18:41 user triggered ShowFullPath with parametrs 
+On 18:41 user triggered ShowSizeNameExtension with parametrs 
+On 18:41 user triggered ShowDates with parametrs 
+On 18:41 user triggered CountFiles with parametrs 
+On 18:41 user triggered CreationDate with parametrs 
+On 18:41 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 18:41 user triggered ShowFileSystemnfo with parametrs 
+On 18:41 user triggered ShowInfoForAll with parametrs 
+On 18:41 user triggered ShowFullPath with parametrs 
+On 18:41 user triggered ShowSizeNameExtension with parametrs 
+On 18:41 user triggered ShowDates with parametrs 
+On 18:41 user triggered CountFiles with parametrs 
+On 18:41 user triggered CreationDate with parametrs 
+On 19:47 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 19:47 user triggered ShowFileSystemnfo with parametrs 
+On 19:47 user triggered ShowInfoForAll with parametrs 
+On 19:47 user triggered ShowFullPath with parametrs 
+On 19:47 user triggered ShowSizeNameExtension with parametrs 
+On 19:47 user triggered ShowDates with parametrs 
+On 19:47 user triggered CountFiles with parametrs 
+On 19:47 user triggered CreationDate with parametrs 
+On 19:50 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 19:50 user triggered ShowFileSystemnfo with parametrs 
+On 19:50 user triggered ShowInfoForAll with parametrs 
+On 19:50 user triggered ShowFullPath with parametrs 
+On 19:50 user triggered ShowSizeNameExtension with parametrs 
+On 19:50 user triggered ShowDates with parametrs 
+On 19:50 user triggered CountFiles with parametrs 
+On 19:50 user triggered CreationDate with parametrs 
+On 19:52 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 19:52 user triggered ShowFileSystemnfo with parametrs 
+On 19:52 user triggered ShowInfoForAll with parametrs 
+On 19:52 user triggered ShowFullPath with parametrs 
+On 19:52 user triggered ShowSizeNameExtension with parametrs 
+On 19:52 user triggered ShowDates with parametrs 
+On 19:52 user triggered CountFiles with parametrs 
+On 19:52 user triggered CreationDate with parametrs 
+On 19:56 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 19:56 user triggered ShowFileSystemnfo with parametrs 
+On 19:56 user triggered ShowInfoForAll with parametrs 
+On 19:56 user triggered ShowFullPath with parametrs 
+On 19:56 user triggered ShowSizeNameExtension with parametrs 
+On 19:56 user triggered ShowDates with parametrs 
+On 19:56 user triggered CountFiles with parametrs 
+On 19:56 user triggered CreationDate with parametrs 
+On 20:00 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 20:00 user triggered ShowFileSystemnfo with parametrs 
+On 20:00 user triggered ShowInfoForAll with parametrs 
+On 20:00 user triggered ShowFullPath with parametrs 
+On 20:00 user triggered ShowSizeNameExtension with parametrs 
+On 20:00 user triggered ShowDates with parametrs 
+On 20:00 user triggered CountFiles with parametrs 
+On 20:00 user triggered CreationDate with parametrs 
+On 20:01 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 20:01 user triggered ShowFileSystemnfo with parametrs 
+On 20:01 user triggered ShowInfoForAll with parametrs 
+On 20:01 user triggered ShowFullPath with parametrs 
+On 20:01 user triggered ShowSizeNameExtension with parametrs 
+On 20:01 user triggered ShowDates with parametrs 
+On 20:01 user triggered CountFiles with parametrs 
+On 20:01 user triggered CreationDate with parametrs 
+On 20:01 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 20:01 user triggered ShowFileSystemnfo with parametrs 
+On 20:01 user triggered ShowInfoForAll with parametrs 
+On 20:01 user triggered ShowFullPath with parametrs 
+On 20:01 user triggered ShowSizeNameExtension with parametrs 
+On 20:01 user triggered ShowDates with parametrs 
+On 20:01 user triggered CountFiles with parametrs 
+On 20:01 user triggered CreationDate with parametrs 
+On 20:03 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 20:03 user triggered ShowFileSystemnfo with parametrs 
+On 20:03 user triggered ShowInfoForAll with parametrs 
+On 20:03 user triggered ShowFullPath with parametrs 
+On 20:03 user triggered ShowSizeNameExtension with parametrs 
+On 20:03 user triggered ShowDates with parametrs 
+On 20:03 user triggered CountFiles with parametrs 
+On 20:03 user triggered CreationDate with parametrs 
+On 20:04 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 20:04 user triggered ShowFileSystemnfo with parametrs 
+On 20:04 user triggered ShowInfoForAll with parametrs 
+On 20:04 user triggered ShowFullPath with parametrs 
+On 20:04 user triggered ShowSizeNameExtension with parametrs 
+On 20:04 user triggered ShowDates with parametrs 
+On 20:04 user triggered CountFiles with parametrs 
+On 20:04 user triggered CreationDate with parametrs 
+On 20:04 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 20:04 user triggered ShowFileSystemnfo with parametrs 
+On 20:04 user triggered ShowInfoForAll with parametrs 
+On 20:04 user triggered ShowFullPath with parametrs 
+On 20:04 user triggered ShowSizeNameExtension with parametrs 
+On 20:04 user triggered ShowDates with parametrs 
+On 20:04 user triggered CountFiles with parametrs 
+On 20:04 user triggered CreationDate with parametrs 
+On 20:07 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 20:07 user triggered ShowFileSystemnfo with parametrs 
+On 20:07 user triggered ShowInfoForAll with parametrs 
+On 20:07 user triggered ShowFullPath with parametrs 
+On 20:07 user triggered ShowSizeNameExtension with parametrs 
+On 20:07 user triggered ShowDates with parametrs 
+On 20:07 user triggered CountFiles with parametrs 
+On 20:07 user triggered CreationDate with parametrs 
+On 20:08 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 20:08 user triggered ShowFileSystemnfo with parametrs 
+On 20:08 user triggered ShowInfoForAll with parametrs 
+On 20:08 user triggered ShowFullPath with parametrs 
+On 20:08 user triggered ShowSizeNameExtension with parametrs 
+On 20:08 user triggered ShowDates with parametrs 
+On 20:08 user triggered CountFiles with parametrs 
+On 20:08 user triggered CreationDate with parametrs 
+On 01:44 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 01:44 user triggered ShowFileSystemnfo with parametrs 
+On 01:44 user triggered ShowInfoForAll with parametrs 
+On 01:44 user triggered ShowFullPath with parametrs 
+On 01:44 user triggered ShowSizeNameExtension with parametrs 
+On 01:44 user triggered ShowDates with parametrs 
+On 01:44 user triggered CountFiles with parametrs 
+On 01:44 user triggered CreationDate with parametrs 
+On 01:44 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 01:44 user triggered ShowFileSystemnfo with parametrs 
+On 01:44 user triggered ShowInfoForAll with parametrs 
+On 01:44 user triggered ShowFullPath with parametrs 
+On 01:44 user triggered ShowSizeNameExtension with parametrs 
+On 01:44 user triggered ShowDates with parametrs 
+On 01:44 user triggered CountFiles with parametrs 
+On 01:44 user triggered CreationDate with parametrs 
+On 01:45 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 01:45 user triggered ShowFileSystemnfo with parametrs 
+On 01:45 user triggered ShowInfoForAll with parametrs 
+On 01:45 user triggered ShowFullPath with parametrs 
+On 01:45 user triggered ShowSizeNameExtension with parametrs 
+On 01:45 user triggered ShowDates with parametrs 
+On 01:45 user triggered CountFiles with parametrs 
+On 01:45 user triggered CreationDate with parametrs 
+On 01:45 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 01:45 user triggered ShowFileSystemnfo with parametrs 
+On 01:45 user triggered ShowInfoForAll with parametrs 
+On 01:45 user triggered ShowFullPath with parametrs 
+On 01:45 user triggered ShowSizeNameExtension with parametrs 
+On 01:45 user triggered ShowDates with parametrs 
+On 01:45 user triggered CountFiles with parametrs 
+On 01:45 user triggered CreationDate with parametrs 
+On 01:46 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 01:46 user triggered ShowFileSystemnfo with parametrs 
+On 01:46 user triggered ShowInfoForAll with parametrs 
+On 01:46 user triggered ShowFullPath with parametrs 
+On 01:46 user triggered ShowSizeNameExtension with parametrs 
+On 01:46 user triggered ShowDates with parametrs 
+On 01:46 user triggered CountFiles with parametrs 
+On 01:46 user triggered CreationDate with parametrs 
+On 01:46 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 01:46 user triggered ShowFileSystemnfo with parametrs 
+On 01:46 user triggered ShowInfoForAll with parametrs 
+On 01:46 user triggered ShowFullPath with parametrs 
+On 01:46 user triggered ShowSizeNameExtension with parametrs 
+On 01:46 user triggered ShowDates with parametrs 
+On 01:46 user triggered CountFiles with parametrs 
+On 01:46 user triggered CreationDate with parametrs 
+On 01:49 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 01:49 user triggered ShowFileSystemnfo with parametrs 
+On 01:49 user triggered ShowInfoForAll with parametrs 
+On 01:49 user triggered ShowFullPath with parametrs 
+On 01:49 user triggered ShowSizeNameExtension with parametrs 
+On 01:49 user triggered ShowDates with parametrs 
+On 01:49 user triggered CountFiles with parametrs 
+On 01:49 user triggered CreationDate with parametrs 
+On 01:49 user ended session
+On 11:40 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 11:40 user triggered ShowFileSystemnfo with parametrs 
+On 11:40 user triggered ShowInfoForAll with parametrs 
+On 11:40 user triggered ShowFullPath with parametrs 
+On 11:40 user triggered ShowSizeNameExtension with parametrs 
+On 11:40 user triggered ShowDates with parametrs 
+On 11:40 user triggered CountFiles with parametrs 
+On 11:40 user triggered CreationDate with parametrs 
+On 11:40 user ended session 
+ 
+On 11:41 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 11:41 user triggered ShowFileSystemnfo with parametrs 
+On 11:41 user triggered ShowInfoForAll with parametrs 
+On 11:41 user triggered ShowFullPath with parametrs 
+On 11:41 user triggered ShowSizeNameExtension with parametrs 
+On 11:41 user triggered ShowDates with parametrs 
+On 11:41 user triggered CountFiles with parametrs 
+On 11:41 user triggered CreationDate with parametrs 
+On 11:41 user ended session 
+ 
+On 11:48 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 11:48 user triggered ShowFileSystemnfo with parametrs 
+On 11:48 user triggered ShowInfoForAll with parametrs 
+On 11:48 user triggered ShowFullPath with parametrs 
+On 11:48 user triggered ShowSizeNameExtension with parametrs 
+On 11:48 user triggered ShowDates with parametrs 
+On 11:48 user triggered CountFiles with parametrs 
+On 11:48 user triggered CreationDate with parametrs 
+On 11:48 user ended session 
+ 
+On 11:50 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 11:50 user triggered ShowFileSystemnfo with parametrs 
+On 11:50 user triggered ShowInfoForAll with parametrs 
+On 11:50 user triggered ShowFullPath with parametrs 
+On 11:50 user triggered ShowSizeNameExtension with parametrs 
+On 11:50 user triggered ShowDates with parametrs 
+On 11:50 user triggered CountFiles with parametrs 
+On 11:50 user triggered CreationDate with parametrs 
+On 11:50 user ended session 
+ 
+On 11:51 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 11:51 user triggered ShowFileSystemnfo with parametrs 
+On 11:51 user triggered ShowInfoForAll with parametrs 
+On 11:51 user triggered ShowFullPath with parametrs 
+On 11:51 user triggered ShowSizeNameExtension with parametrs 
+On 11:51 user triggered ShowDates with parametrs 
+On 11:51 user triggered CountFiles with parametrs 
+On 11:51 user triggered CreationDate with parametrs 
+On 11:51 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 11:51 user triggered ShowFileSystemnfo with parametrs 
+On 11:51 user triggered ShowInfoForAll with parametrs 
+On 11:51 user triggered ShowFullPath with parametrs 
+On 11:51 user triggered ShowSizeNameExtension with parametrs 
+On 11:51 user triggered ShowDates with parametrs 
+On 11:51 user triggered CountFiles with parametrs 
+On 11:51 user triggered CreationDate with parametrs 
+On 11:51 user ended session 
+ 
+On 11:54 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 11:54 user triggered ShowFileSystemnfo with parametrs 
+On 11:54 user triggered ShowInfoForAll with parametrs 
+On 11:54 user triggered ShowFullPath with parametrs 
+On 11:54 user triggered ShowSizeNameExtension with parametrs 
+On 11:54 user triggered ShowDates with parametrs 
+On 11:54 user triggered CountFiles with parametrs 
+On 11:54 user triggered CreationDate with parametrs 
+On 11:54 user ended session 
+ 
+On 11:54 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 11:54 user triggered ShowFileSystemnfo with parametrs 
+On 11:54 user triggered ShowInfoForAll with parametrs 
+On 11:54 user triggered ShowFullPath with parametrs 
+On 11:54 user triggered ShowSizeNameExtension with parametrs 
+On 11:54 user triggered ShowDates with parametrs 
+On 11:54 user triggered CountFiles with parametrs 
+On 11:54 user triggered CreationDate with parametrs 
+On 11:54 user ended session 
+ 
+On 11:54 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 11:54 user triggered ShowFileSystemnfo with parametrs 
+On 11:54 user triggered ShowInfoForAll with parametrs 
+On 11:54 user triggered ShowFullPath with parametrs 
+On 11:54 user triggered ShowSizeNameExtension with parametrs 
+On 11:54 user triggered ShowDates with parametrs 
+On 11:54 user triggered CountFiles with parametrs 
+On 11:54 user triggered CreationDate with parametrs 
+On 11:54 user ended session 
+ 
+On 11:59 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 11:59 user triggered ShowFileSystemnfo with parametrs 
+On 11:59 user triggered ShowInfoForAll with parametrs 
+On 11:59 user triggered ShowFullPath with parametrs 
+On 11:59 user triggered ShowSizeNameExtension with parametrs 
+On 11:59 user triggered ShowDates with parametrs 
+On 11:59 user triggered CountFiles with parametrs 
+On 11:59 user triggered CreationDate with parametrs 
+On 11:59 user ended session 
+ 
+On 12:01 user triggered ShowFreeSpaceOnDrive with parametrs D
+On 12:01 user triggered ShowFileSystemnfo with parametrs 
+On 12:01 user triggered ShowInfoForAll with parametrs 
+On 12:01 user triggered ShowFullPath with parametrs 
+On 12:01 user triggered ShowSizeNameExtension with parametrs 
+On 12:01 user triggered ShowDates with parametrs 
+On 12:01 user triggered CountFiles with parametrs 
+On 12:01 user triggered CreationDate with parametrs 
+On 12:01 user ended session 
+ 
