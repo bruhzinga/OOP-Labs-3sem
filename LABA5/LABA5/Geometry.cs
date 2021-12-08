@@ -14,11 +14,12 @@ namespace LABA5
         }
     }
 
-    internal abstract class GeometricFigure
+    [Serializable]
+    public abstract class GeometricFigure
     {
-        protected string Color { get; set; }
-        protected static int count = 0;
-        protected double Area { get; set; }
+        public string Color { get; set; }
+        public static int count = 0;
+        public double Area { get; set; }
 
         public GeometricFigure()
         {
@@ -37,9 +38,17 @@ namespace LABA5
         public override bool Equals(object obj) => GetType().Name == obj.ToString();
     }
 
-    internal class Circle : GeometricFigure
+    [Serializable]
+    public class Circle : GeometricFigure
     {
-        private int Radius { get; set; }
+        public int Radius { get; set; }
+
+        public Circle()
+        {
+            Radius = 0;
+            Color = "N/S";
+            Area = (Math.PI) * Radius * Radius;
+        }
 
         public Circle(int rad, string color = "N/S")
             : base()
@@ -52,7 +61,7 @@ namespace LABA5
         public override string ToString() => $" {Radius} {Color} {count} {Area}";
     }
 
-    sealed internal class Square : GeometricFigure
+    internal sealed class Square : GeometricFigure
     {
         private int Side { get; set; }
 
